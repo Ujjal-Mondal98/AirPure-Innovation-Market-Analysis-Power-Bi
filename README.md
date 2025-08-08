@@ -92,7 +92,7 @@ A modern **smart air purifier** designed with:
 **Ujjal Mondal**  
 📧 ujjalmondal.business@gmail.com
 💼 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)  
-🎥 [YouTube Project Presentation](https://www.youtube.com/watch?v=your-video-id)  
+🎥 [YouTube Project Presentation](https://www.youtube.com/watch?v=L7G_nLNC2-Y)  
 📊 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGE4ZDljNmYtMjc1Ni00MmNhLTllZTctOTQxOGViMTk0NWNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 

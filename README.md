@@ -91,7 +91,7 @@ A modern **smart air purifier** designed with:
 ## 📌 Author & Links
 **Ujjal Mondal**  
 📧 ujjalmondal.business@gmail.com
-💼 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-username/)  
+💼 [LinkedIn Presentation](https://www.linkedin.com/posts/ujjalmondal_dataanalytics-airpollution-powerbi-activity-7359772964076097536-ElFb?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdvak8B0Zwmdf3JbEXWL7tzIaAem94O4pQ)  
 🎥 [YouTube Project Presentation](https://www.youtube.com/watch?v=L7G_nLNC2-Y)  
 📊 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGE4ZDljNmYtMjc1Ni00MmNhLTllZTctOTQxOGViMTk0NWNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
